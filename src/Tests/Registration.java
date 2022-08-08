@@ -28,7 +28,7 @@ import Pages.LoginPage;
 import Pages.SignUp;
 
 /**
- * @author saingur
+ * @author Mandeep
  *
  */
 public class Registration extends BrowserFactory {

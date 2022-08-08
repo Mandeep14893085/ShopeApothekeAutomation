@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.Select;
 
 /**
- * @author saingur
+ * @author Mandeep
  *
  */
 public class SignUp {
